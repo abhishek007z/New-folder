@@ -34,3 +34,7 @@ coverage/
 
 # OS
 Thumbs.db
+
+# Extracted folders - Keep local only
+todo-backend/
+todo-backend (2)/
